@@ -1,0 +1,75 @@
+*{scroll-behavior:smooth;
+  box-sizing:content-box;
+}
+h1{
+  text-align:center;
+  margin-bottom:0; 
+}
+body{
+  background-color:rgb(243, 224, 224);
+  font-family:Verdana, sans-serif;
+  margin:0;
+  padding: 0;
+}
+header p{
+  text-align:center;
+  color:rgb(216, 13, 13);
+  margin-top:0;
+}
+img{
+  max-width: 100%;
+  min-width:200px;
+  object-fit: cover;
+  margin:0 auto ;
+  border:2px solid red;
+  box-shadow:5px 5px 8px -1px rgb(216, 117, 117); display:block;
+  }
+#img-caption{
+  margin-top:5px; 
+  text-align:center;
+  font-size: 0.7rem;
+}
+li > a{
+  text-decoration:none;
+  color:red; 
+  font-size:1.5em;
+  font-weight: bold;
+  border-bottom: 1px solid red;
+  transition: font-size 200ms ease-in-out;
+}
+li > a:hover{
+  background-color: rgba(255, 0, 0, 0.1);
+  border-bottom: 0;
+  font-size: 1.65em;
+}
+ul{
+  list-style-type: none;  
+}
+ul li{
+  margin:0;
+}
+.menu{
+  display:flex;
+  justify-content:center;
+}
+.bio{
+  margin-left:1rem;
+}
+.tributelink{
+ font-weight:800; 
+ font-size:1.3rem;
+ margin: 5rem 0;
+ text-align: center;
+ 
+}
+.tributelink a{
+  text-decoration: none;
+  color: red;
+  transition: font-size 200ms ease-in-out;
+}
+.tributelink a:hover{
+  text-decoration: underline;
+  background-color: rgba(255, 0, 0, 0.1);
+  font-size: 1.35rem;
+  
+}

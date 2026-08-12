@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title id="title">Fidel Castro</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>   
+      <h1>Fidel Castro</h1>
+      <p><i>Revolutionary leader of Cuba 1926 -2016</i></p>
+    </header>
+    <main id="main">
+      <figure id="img-div">
+        <img id="image" src="https://patrick-le-hyaric.fr/wp-content/uploads/2016/11/1974_fidel_castro_ap_629.jpg" alt="Fidel Castro smoking a cigar">
+        <figcaption id="img-caption">
+          <i>The iconic photo of Castro smoking a cigar</i>
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <nav class="menu">
+          <ul>
+            <li><a href="#e-life">Early life</a></li>
+            <li><a href="#p-career">Political career</a></li>
+            <li><a href="#per-life">Personal life and rumors</a></li>
+          </ul>
+        </nav>
+        <div class="bio" >
+          <h2 id="e-life">Early life</h2>
+          <p>
+            -Born August 13, 1926, near Birán, Cuba.<br>
+            -Died November 25, 2016, Cuba.<br>
+          </p>
+          <p>
+            Fidel Castro was born out of wedlock. He was conceived through an extramarital affair between his father, Ángel Castro y Argiz, a well-to-do sugarcane farmer hailing from Spain, and Ángel’s wife’s servant Lina Ruz Gonzáles; the pair wed when Fidel was a teenager.
+          </p>
+        </div>
+        <div class="bio">
+          <h2 id="p-career">Political career</h2>
+          <p>
+            Fidel Castro’s revolutionary career began while he was enrolled at the School of Law of the University of Havana, when he participated in resistance movements in the Dominican Republic and Colombia. He became active in Cuban politics after graduating in 1950, and he prepared to run for legislative office in the 1952 elections.
+          </p>
+          <p>Those elections were canceled when Fulgencio Batista forcibly seized power.</p>
+          <figure>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BatistaDC1938.jpg/1920px-BatistaDC1938.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt=" Photo of Fulgencio Batista with U.S. Army Chief of staff Malin Craig">
+            <figcaption id="img-caption"><i>General Fulgencio Batista (left, with U.S. Army Chief of staff Malin Craig).</i></figcaption>
+          </figure>
+          <p>
+            Castro began organizing a resistance movement against Cuba’s new dictator, leading several ill-fated attempts against Batista’s forces, such as the assault on Santiago de Cuba and another on Cuba’s eastern coast. The tide of battle would turn, however: Castro’s guerrilla warfare campaign and his propaganda efforts succeeded in eroding the power of Batista’s military and popular support while also attracting volunteers to the revolutionary cause. Batista was forced to flee the country in 1959. Shortly after, Castro assumed complete authority over Cuba’s new government.
+          </p>
+        </div>
+        <div class="bio">
+          <h2 id="per-life">Personal life and rumors</h2>
+          <p> 
+            In his adult years, Fidel Castro married two different women and had multiple children by them. The Castro family is shrouded in mystery, however, and little is known about his kids.
+          </p>
+          <h3>Rumors</h3>
+          <p>
+            According to some conspiracy theorists, one of Fidel Castro's secret sons is no other than Canadian Prime Minister Justin Trudeau.
+            Allegations about an affair between Castro and Justin Trudeau's mother Margaret Trudeau, have been circulating on the internet since 2016.
+          </p>
+          <figure>
+            <img src="https://img.src.ca/2015/11/01/1250x703/PC_151101_sv8oe_trudeau-castro_sn1250.jpg" alt="photo of Fidel and Justin's mom in 1976">
+            <figcaption id="img-caption">
+              <i>Fidel Castro with Margaret, holding Michel Trudeau, Justin's brother, on January 1976.</i>
+            </figcaption>
+          </figure> 
+          <p>
+            The striking physical resemblance between Justin Trudeau and Fidel Castro further reinforce these theories.
+          </p>
+ 
+          <figure>
+            <img src="https://cdn.panampost.com/wp-content/uploads/2024/09/JUSTIN-FIDEL-1-e1725317807530.jpg" alt="photo comparing Fidel's and Trudeau's facial features"> <figcaption id="img-caption">
+              <i>Trudeau's face on the left, Fidel Castro's face on the right.</i>
+            </figcaption>
+          </figure>
+        </div>
+        <div class="tributelink">
+          You can read more about the hectic life of Fidel Castro on <a id="tribute-link" href="https://www.britannica.com/biography/Fidel-Castro" target="_blank">Britannica</a>.
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
